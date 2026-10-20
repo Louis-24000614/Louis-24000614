@@ -45,7 +45,7 @@ I am interested in embodied AI and robotics, with hands-on experience in quadrup
 ![ROS2](https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ros&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-0B3A6F?style=for-the-badge&logo=linux&logoColor=white)
-![React](https://img.shields.io/badge/React-2563EB?style=for-the-badge&logo=react&logoColor=white)
+![Embedded Systems](https://img.shields.io/badge/Embedded_Systems-2563EB?style=for-the-badge&logoColor=white)
 
 </div>
 
